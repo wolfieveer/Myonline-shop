@@ -1,0 +1,7 @@
+needs:-
+domain
+hosting
+products
+shipment
+payment gateways
+company
