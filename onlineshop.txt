@@ -5,3 +5,4 @@ products
 shipment
 payment gateways
 company
+Investment
